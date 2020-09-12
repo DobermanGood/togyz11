@@ -9,7 +9,7 @@ function drawMatrix() {
   c.width = window.innerWidth;
 
   //chinese characters - taken from the unicode charset
-  var chinese = "Айс";
+  var chinese = "911";
   //converting the string into an array of single characters
   chinese = chinese.split("");
 
